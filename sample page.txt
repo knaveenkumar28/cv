@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THIS IIS MY PERSONAL SITE</title>
+</head>
+<body>
+    <table cellspacing="40">
+    <tr>
+        <td><img src="https://scontent-bom1-2.xx.fbcdn.net/v/t39.30808-6/256913884_258173223001198_1038290873526238171_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=cfTnnfIA7oYAX9uGRpG&_nc_ht=scontent-bom1-2.xx&oh=00_AT9f__-0sJchh9PvVOQy-vvgZc_ibmKSoSPxM0haMHhdaQ&oe=624809E0" alt="nk" srcset=""></td>
+        <td> <h1>naveen kumar</h1>
+            <p><i><a href="https://www.facebook.com/NAVVIN.28/">Iam NaveenKumar</a> <STrong> stack developer and  3d artist</STrong></i></p>
+            <p> <i>I love to sing songs in free time.</i></p></td>
+    </tr>
+    </table> 
+<hr>
+    <H2>EDUCATION</H2>   
+    <Ul>
+        <LI>Diploma civil engineer (2015-2018)</LI>
+        <LI>Animation certifcation (2018-2019)</LI>
+        <LI>BACHERLOR OF <a href="https://www.intelegain.com/blogs/">COMPUTER APPLICATIONS</a> (2019-20122) at <a href="https://jpnce.ac.in/">jpnce</a></LI>
+    </Ul> 
+    <h3>WORK EXPERIENCE</h3>
+    <table cellspacing="10">
+        <THead>
+            <TR>
+                <TH>DATES</TH>
+                <TH>WORK DETAILS</TH>
+            </TR>
+        </THead>
+        <tr>
+            <TD>2022-2023</TD>
+            <TD>JUNIOR DEVELOPER</TD>
+        </TR> 
+        <TR>    
+            <TD>2024-2025</TD>  
+            <TD>SENIOR DEVELOPER</TD>  
+        </TR> 
+    </table >
+    <hr>
+    <h3>SKILLS</h3>
+     <Table cellspacing="10">
+         <TR>
+             <TD>HTML CSS </TD>
+             <TD>⭐⭐⭐⭐</TD>
+         </TR>
+         <TR>
+            <TD>JAVA </TD>
+            <TD>⭐⭐</TD>
+            
+        </TR>
+        <TR>
+            <TD>REACT JS </TD>
+            <TD>⭐⭐⭐⭐⭐⭐⭐⭐</TD>
+        </TR>
+     </Table>
+    <H3>MY HOBBIES</H3>
+    <Ol>
+        <LI>SINGING</LI>
+        <LI>YOUTUBING</LI>
+        <LI>WRITING BOOKS</LI>
+    </Ol>
+    <h3><a href="file:///C:/Users/ACER%20NITRO%20GAMERS/Desktop/contact.me.html">contact me</a></h3>
+</body>
+</html> 
